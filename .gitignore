@@ -1,0 +1,11 @@
+# For Python
+*.py[cod]
+__pycache__/
+# Also venv
+venv/
+# For Jupyter Notebooks
+.ipynb_checkpoints
+# For Visual Studio Code
+.vscode/
+# For PyCharm
+.idea/
